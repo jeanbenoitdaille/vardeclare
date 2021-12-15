@@ -1,0 +1,2 @@
+# vardeclare
+Déclarer une variable 
